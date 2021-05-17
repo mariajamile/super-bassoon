@@ -58,6 +58,6 @@ python main.py -a % -b % -l % -n %
 
 - Valmir Júnior
 
-- Maria Jamile
+- Jamile Costa
 
 
